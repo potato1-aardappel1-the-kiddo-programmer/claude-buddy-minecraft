@@ -1,0 +1,9 @@
+# never upload these
+.gradle/
+build/
+__pycache__/
+*.pyc
+*.log
+*backup*
+*.oud
+claude_desktop_config.json
