@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claude-minecraft": {
+      "command": "python",
+      "args": ["C:\\Users\\example\\Desktop\\claude-buddy-minecraft\\mcp_server\\claude_minecraft_mcp.py"]
+    }
+  }
+}
